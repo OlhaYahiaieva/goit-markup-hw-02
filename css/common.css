@@ -72,10 +72,12 @@
   font-size: 44px;
   line-height: 1.3;
   text-align: center;
+  text-transform: uppercase;
 }
 .description-titel {
   font-size: 14px;
   line-height: 1.1;
+  text-transform: uppercase;
 }
 .portfolio-titel {
   font-size: 18px;
@@ -110,9 +112,12 @@
 .page-footer {
   background-color: #2f303a;
 }
+
 .addres {
-  color: var(--primary-wight-color);
-}
-.addres-up {
   color: var(--primary-text-color);
+  font-family: Roboto;
+  font-weight: 400;
+}
+.address {
+  color: var(--primary-wight-color);
 }
