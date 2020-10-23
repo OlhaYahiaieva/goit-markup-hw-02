@@ -73,13 +73,14 @@
   line-height: 1.3;
   text-align: center;
   text-transform: uppercase;
-  font-weight: bolder;
+  font-weight: 900px;
 }
 .description-titel {
   font-size: 14px;
   line-height: 1.1;
   text-transform: uppercase;
 }
+
 .portfolio-titel {
   font-size: 18px;
   line-height: 2;
@@ -117,7 +118,7 @@
 .addres {
   color: var(--primary-text-color);
   font-family: Roboto;
-  font-weight: 400;
+  font-weight: 500;
   font-style: normal;
 }
 .address {
