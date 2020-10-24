@@ -22,6 +22,7 @@
   font-size: 14px;
   font-family: Roboto;
   font-weight: 400;
+  letter-spacing: 0.03em;
 }
 .logo {
   color: var(--accent-color);
@@ -41,6 +42,7 @@
 }
 .link {
   text-decoration: none;
+  font-weight: 500;
 }
 
 /* site nav */
@@ -73,7 +75,7 @@
   line-height: 1.3;
   text-align: center;
   text-transform: uppercase;
-  font-weight: 900px;
+  font-weight: 900;
 }
 .description-titel {
   font-size: 14px;
@@ -84,6 +86,10 @@
 .portfolio-titel {
   font-size: 18px;
   line-height: 2;
+}
+.work-titel,
+.team-titel {
+  line-height: 1.5;
 }
 
 /* кнопки */
@@ -105,6 +111,7 @@
 /* p */
 .text {
   color: var(--primary-text-color);
+  line-height: 1.1;
 }
 .team-name.text {
   color: var(--titel-text-color);
@@ -120,6 +127,12 @@
   font-family: Roboto;
   font-weight: 500;
   font-style: normal;
+}
+.addres-top {
+  line-height: 1.1;
+}
+.addres-bottom {
+  line-height: 1.7;
 }
 .address {
   color: var(--primary-wight-color);
