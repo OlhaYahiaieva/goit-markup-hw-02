@@ -23,6 +23,7 @@
   font-family: Roboto;
   font-weight: 400;
   letter-spacing: 0.03em;
+  line-height: 1.1;
 }
 .logo {
   color: var(--accent-color);
