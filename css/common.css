@@ -31,6 +31,7 @@
   font-weight: 700;
   font-size: 26px;
   line-height: 1.1;
+  letter-spacing: 0.03em;
 }
 .page-header span {
   color: black;
@@ -49,6 +50,10 @@
 /* site nav */
 .site-nav a {
   color: var(--titel-text-color);
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.1;
+  letter-spacing: 0.02em;
 }
 .site-nav a:hover,
 .site-nav a:focus {
@@ -77,20 +82,24 @@
   text-align: center;
   text-transform: uppercase;
   font-weight: 900;
+  letter-spacing: 0.06em;
 }
 .description-titel {
   font-size: 14px;
   line-height: 1.1;
   text-transform: uppercase;
+  letter-spacing: 0.03em;
 }
 
 .portfolio-titel {
   font-size: 18px;
   line-height: 2;
+  letter-spacing: 0.06em;
 }
 .work-titel,
 .team-titel {
   line-height: 1.5;
+  letter-spacing: 0.03em;
 }
 
 /* кнопки */
@@ -113,6 +122,10 @@
 .text {
   color: var(--primary-text-color);
   line-height: 1.1;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.2;
+  letter-spacing: 0.03em;
 }
 .team-name.text {
   color: var(--titel-text-color);
@@ -128,6 +141,10 @@
   font-family: Roboto;
   font-weight: 500;
   font-style: normal;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.1;
 }
 .addres-top {
   line-height: 1.1;
